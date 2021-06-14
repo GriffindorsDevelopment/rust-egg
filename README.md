@@ -1,1 +1,10 @@
 # rust-egg
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/griffindor30/rust-egg.svg?style=flat)](https://hub.docker.com/r/griffindor30/rust-egg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/griffindor30/rust-egg.svg?style=flat)](https://hub.docker.com/r/griffindor30/rust-egg-egg)
+[![Discord](https://img.shields.io/discord/328932413428465674)](https://discord.gg/BbnkdtX)
+![](https://img.shields.io/badge/status-prod-informational)
+[![GitHub license](https://img.shields.io/github/license/GriffindorsDevelopment/rust-egg)](https://github.com/GriffindorsDevelopment/rust-egg/StrapDown.js/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/GriffindorsDevelopment/rust-egg)](https://GitHub.com/GriffindorsDevelopment/rust-egg/releases/)
+[![Github all releases](https://img.shields.io/github/downloads/GriffindorsDevelopment/rust-egg/total.svg)](https://GitHub.com/GriffindorsDevelopment/rust-egg/releases/)
+[![GitHub issues](https://img.shields.io/github/issues/GriffindorsDevelopment/rust-egg)](https://GitHub.com/GriffindorsDevelopment/rust-egg/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/GriffindorsDevelopment/rust-egg)](https://GitHub.com/GriffindorsDevelopment/rust-egg/StrapDown.js/pull/)

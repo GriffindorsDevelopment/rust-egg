@@ -28,8 +28,8 @@
       "description": "The name of your server in the public server list.",
       "env_variable": "HOSTNAME",
       "default_value": "A Rust Server",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|string|max:40"
     },
     {
@@ -37,8 +37,8 @@
       "description": "Set whether you want the server to use and auto update OxideMod or not. Valid options are \"1\" for true and \"0\" for false.",
       "env_variable": "OXIDE",
       "default_value": "0",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|boolean"
     },
     {
@@ -64,8 +64,8 @@
       "description": "The world file for Rust to use.",
       "env_variable": "LEVEL",
       "default_value": "Procedural Map",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|string|max:20"
     },
     {
@@ -73,8 +73,8 @@
       "description": "The description under your server title. Commonly used for rules & info. Use \\n for newlines.",
       "env_variable": "DESCRIPTION",
       "default_value": "Powered by Pterodactyl",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|string"
     },
     {
@@ -82,8 +82,8 @@
       "description": "The URL for your server. This is what comes up when clicking the \"Visit Website\" button.",
       "env_variable": "SERVER_URL",
       "default_value": "http:\/\/pterodactyl.io",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "nullable|url"
     },
     {
@@ -91,8 +91,8 @@
       "description": "The world size for a procedural map.",
       "env_variable": "WORLD_SIZE",
       "default_value": "3000",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|integer"
     },
     {
@@ -100,8 +100,8 @@
       "description": "The seed for a procedural map.",
       "env_variable": "WORLD_SEED",
       "default_value": "",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "nullable|string"
     },
     {
@@ -109,8 +109,8 @@
       "description": "The maximum amount of players allowed in the server at once.",
       "env_variable": "MAX_PLAYERS",
       "default_value": "40",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|integer"
     },
     {
@@ -118,8 +118,8 @@
       "description": "The header image for the top of your server listing.",
       "env_variable": "SERVER_IMG",
       "default_value": "",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "nullable|url"
     },
     {
@@ -127,8 +127,8 @@
       "description": "Port for RCON connections.",
       "env_variable": "RCON_PORT",
       "default_value": "28016",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|integer"
     },
     {
@@ -136,8 +136,8 @@
       "description": "RCON access password.",
       "env_variable": "RCON_PASS",
       "default_value": "CHANGEME",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|string|max:64"
     },
     {
@@ -145,8 +145,8 @@
       "description": "Sets the server\u2019s auto-save interval in seconds.",
       "env_variable": "SAVEINTERVAL",
       "default_value": "60",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|integer"
     },
     {
@@ -154,8 +154,8 @@
       "description": "Add additional startup parameters to the server.",
       "env_variable": "ADDITIONAL_ARGS",
       "default_value": "",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "nullable|string"
     },
     {
@@ -163,8 +163,8 @@
       "description": "Port for the Rust+ App. -1 for disabled.",
       "env_variable": "APP_PORT",
       "default_value": "-1",
-      "user_viewable": 1,
-      "user_editable": 1,
+      "user_viewable": true,
+      "user_editable": true,
       "rules": "required|integer"
     }
   ]

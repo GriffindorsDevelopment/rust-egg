@@ -160,11 +160,11 @@
     },
     {
       "name": "App Port",
-      "description": "Port for the Rust+ App.  -1 for disabled.",
+      "description": "Port for the Rust+ App. -1 for disabled.",
       "env_variable": "APP_PORT",
-      "default_value": "28082",
+      "default_value": "-1",
       "user_viewable": 1,
-      "user_editable": 0,
+      "user_editable": 1,
       "rules": "required|integer"
     }
   ]

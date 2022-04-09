@@ -128,7 +128,7 @@
       "env_variable": "RCON_PORT",
       "default_value": "28016",
       "user_viewable": 1,
-      "user_editable": 0,
+      "user_editable": 1,
       "rules": "required|integer"
     },
     {

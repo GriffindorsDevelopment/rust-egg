@@ -48,7 +48,7 @@
       "default_value": "rust",
       "user_viewable": true,
       "user_editable": true,
-      "rules": "required|string"
+      "rules": "nullable|string"
     },
     {
       "name": "Server Tags",

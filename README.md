@@ -1,7 +1,6 @@
 ﻿# rust-egg
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/griffindor30/rust-egg.svg?style=flat)](https://hub.docker.com/r/griffindor30/rust-egg)
 [![Docker Pulls](https://img.shields.io/docker/pulls/griffindor30/rust-egg.svg?style=flat)](https://hub.docker.com/r/griffindor30/rust-egg-egg)
-[![Discord](https://img.shields.io/discord/328932413428465674)](https://discord.gg/BbnkdtX)
+[![Discord](https://img.shields.io/discord/328932413428465674)](https://discord.trillionservers.com)
 ![](https://img.shields.io/badge/status-prod-informational)
 [![GitHub license](https://img.shields.io/github/license/GriffindorsDevelopment/rust-egg)](https://github.com/GriffindorsDevelopment/rust-egg/StrapDown.js/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/GriffindorsDevelopment/rust-egg)](https://GitHub.com/GriffindorsDevelopment/rust-egg/releases/)
@@ -29,4 +28,5 @@ Soon i will start adding to the Wiki to allow people to look at some guides on h
 Version | Supported
 ------------ | -------------
 V1.0 |⚠
-V1.1 |✅
+V1.1 |⚠
+V1.2 |✅

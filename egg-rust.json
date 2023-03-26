@@ -175,7 +175,6 @@
       "user_viewable": true,
       "user_editable": true,
       "rules": "nullable|string",
-      "warning_text": null,
       "field_type": "text"
     },
     {
@@ -186,7 +185,6 @@
       "user_viewable": true,
       "user_editable": true,
       "rules": "nullable|string",
-      "warning_text": null,
       "field_type": "text"
     },
     {
@@ -197,7 +195,6 @@
       "user_viewable": true,
       "user_editable": true,
       "rules": "nullable|url",
-      "warning_text": null,
       "field_type": "text"
     }
   ]
